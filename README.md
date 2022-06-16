@@ -1,17 +1,17 @@
 Clone the repository with the following command:
 
-```bash
-git clone https://github.com/horizon-ui/horizon-ui-chakra.git
+```
+https://github.com/AryaShrivastava05/As.git
 ```
 
 Run in terminal this command:
 
-```bash
+```
 npm install
 ```
 
 Then run this command to start your local server
 
-```bash
+```
 npm start
 ```
